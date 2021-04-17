@@ -1,3 +1,3 @@
 # RecursiveDeterminantCalculator
 
-It's a simple but computationally intensive C# class to calculate the determinant of any nxn int matrix.
+It's a simple but computationally intensive C# class to calculate the determinant of any nxn double matrix.
